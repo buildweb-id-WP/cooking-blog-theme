@@ -1,4 +1,6 @@
-cooking-blog-theme
-==================
+wordpress-templates
+===================
 
-Theme for wordpress for cooking blog.
+wordpress-templates
+This template is a child theme of twenty eleven.
+* Please install twentyeleven with cooking blog theme.
